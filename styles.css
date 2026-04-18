@@ -1,0 +1,109 @@
+body {
+    background: linear-gradient(135deg, #a8e6cf, #56ab2f);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    background-color: seagreen;
+}
+.box {
+    color: rgb(255, 255, 255);
+    width: 100%;
+    height: 200px;
+    margin: 20px;
+    margin: 0;
+    background-color: aliceblue;
+    background-image: url(https://www.eedeporte.com/wp-content/uploads/MINIBLOGS-6.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 
+}
+
+li {
+    color: rgb(0, 0, 16);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nunca {
+    color: rgb(255, 0, 0);
+}
+.Campeona {
+    color: rgb(62, 13, 176);
+}
+
+.parrafo-verde {
+    color: rgb(4, 57, 4);
+
+}
+
+
+.ultima{
+    color: rgb(0, 0, 6);
+    text-align: center;
+}
+
+form { background-color: transparent;
+    width: 400px;
+    margin: 20px auto;
+    margin-bottom: 50px;
+    padding: 20px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+input,  textarea  {
+    background-color: transparent;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #185f09;
+    border-radius: 5px;
+    
+}
+
+textarea {
+          min-width: 80%;
+          margin: auto;
+          font-family: sans-serif;
+          resize: none;
+          min-height: 100px;
+          
+
+
+
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    
+}
+.foto img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+footer { background-color:black;
+    color: white;
+
+
+
+}
+
+
+
